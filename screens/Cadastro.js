@@ -11,7 +11,7 @@ export default function Cadastro({ navigation }) {
       </Text>
 
       <View style={{ paddingHorizontal: 16}}> 
-      <Text style={styles.rotulo}> Nome</Text> 
+      <Text style={styles.rotulo}> Nome Completo</Text> 
         <TextInput
         style={styles.input}
         keyboardType='email-address'
